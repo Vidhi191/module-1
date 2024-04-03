@@ -1,0 +1,65 @@
+.box{
+	width: 35%;
+}
+
+.width{
+	width: 100%;
+}
+
+.p1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.font-widht{
+	font-weight: 900;
+}
+
+.font{
+	font-size: 16px;
+}
+
+.font1{
+	font-size: 13px;
+}
+
+.box-color{
+	background-color: #9cbc2b;
+}
+
+.boxcolor{
+	background: rgba(255,255,255,.3);
+	border-color: rgba(255,255,255,.6);
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 5px;
+}
+
+.border_none{
+	border: none;
+	border-radius: 3px;
+}
+
+.card-size{
+	padding: 0 0 0 30px;
+	background:none no-repeat left 50%;
+}
+
+.sub-btn{
+	text-align: center;
+}
+
+.sub-btn input{
+	background: #384313;
+	border: none;
+	border-radius: 19px;
+	color: white;
+	font-size: 18px;
+}
+
+
+::placeholder{
+  color: #b0b5bb;
+}
+
+
+
